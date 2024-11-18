@@ -33,5 +33,5 @@
 
 ### 🏆: Достижения :
 <div>
-<img src="https://github-trophy.vercel.app/?username=Damir095" alt=""/>
+<img src="https://github-profile-trophy.vercel.app/?username=Damir095" alt=""/>
 </div>
