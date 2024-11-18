@@ -38,3 +38,6 @@
 </div>
 
 ### ⌨️: Наиболее используемые языки:
+<div>
+  <img src="httpc://github-readme-stats.vercel.app/api/top-langs/?username=Damir95" alt=""/>
+</div>
