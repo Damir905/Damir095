@@ -42,3 +42,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damir95" alt=""/>
 </div>
+
+### 📊: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph username=Damir95&theme=react-dark" alt=""/>
+</div>
