@@ -31,8 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg"  width="40" height="40"/>
 </div>
 
-### 🏆: Достижения:
+### 🏆: Достижения : 
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Damir095" alt=""/>
+<img src="https://github-trophy.vercel.app/?username=Damir095" alt=""/>
 </div>
