@@ -23,3 +23,10 @@
 - 🎨 факт№3 про дамира магасумова
 
 ### 🛠️: Языки и инструменты: 
+</div>
+https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/akka/akka-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/apple/apple-original.svg
+https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-original-wordmark.svg
+</div>
